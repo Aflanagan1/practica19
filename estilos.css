@@ -1,0 +1,12 @@
+.izquierda{
+    text-align:left;
+    width: 200px;
+}
+.derecha{
+    text-align:right;
+    width: 200px;
+}
+.centro{
+    text-align: center;
+    width: 200px;
+}
